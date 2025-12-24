@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: sunnyvalechha/petclinic
-  tag: latest
+  tag: 6
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
